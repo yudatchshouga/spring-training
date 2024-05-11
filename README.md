@@ -1,15 +1,15 @@
 インストールが必要なもの
-・Java17
-・VSCode
-・Docker Desktop
-・TablePlus
+- Java17
+- VSCode
+- Docker Desktop
+- TablePlus
 
 VSCode拡張機能
-・Extension Pack for Java
-・Spring Boot Extension Pack
+- Extension Pack for Java
+- Spring Boot Extension Pack
 
 Githubリポジトリ
-https://github.com/yudatchshouga/spring-training
+- https://github.com/yudatchshouga/spring-training
 
 手順
 1. 上記のリポジトリをローカルにクローン
