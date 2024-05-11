@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+    <!-- ヘッダーフラグメントの定義 -->
+    <div th:fragment="headerFragment">
+        <link rel="stylesheet" type="text/css" href="/header.css" />
+        <header>
+            <div class="container">
+                <a href="/">サイエンス工作教室</a>
+                <nav>
+                    <ul>
+                        <li><a href="/reservation">予約</a></li>
+                        <li><a href="/works">工作一覧</a></li>
+                        <li><a href="/contact">お問い合わせ</a></li>
+                        <li><a href="/login">ログイン</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+    </div>
+</body>
+</html>
