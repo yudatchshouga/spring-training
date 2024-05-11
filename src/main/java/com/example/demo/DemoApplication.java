@@ -13,6 +13,6 @@ public class DemoApplication {
     }
     @GetMapping("/index")
     public String hello() {
-      return "redirect:/index.html";
+      return "index";
     }
 }
